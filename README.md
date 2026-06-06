@@ -1,6 +1,6 @@
 # 🗂️ Portfolio Website
 
-Personal portfolio site for **Antonio Unabia** — CS @ UIC, game developer, and incoming PM intern at ISACA.
+Personal portfolio site for **Antonio Unabia**: CS @ UIC, game developer, and current Product Management intern at ISACA.
 
 Built with vanilla HTML, CSS, and JavaScript. No frameworks, no dependencies. Hosted on GitHub Pages.
 
